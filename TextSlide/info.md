@@ -10,6 +10,9 @@
 
 ### 开始使用
 
+可以参考demo.html描写内容
+
+
 使用TextSlide构造类即可实现一个滑动文本。如下:
 
 
@@ -147,4 +150,3 @@ TextSlide.prototype.showNextMessage = function(){
 
 本插件使用PIXI包装，更多方法设置可参考PIXI.Text的相关方法和属性 [PIXI.Text](https://pixijs.download/release/docs/PIXI.Text.html)
 
-### 帮助
