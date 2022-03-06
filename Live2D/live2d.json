@@ -1,0 +1,81 @@
+[
+    {
+        "name": "bilibili-live/22",
+        "textures": [
+            "index.json",
+            "c1.json",
+            "c2.json",
+            "c3.json",
+            "c4.json",
+            "c5.json"
+        ]
+    },
+    {
+        "name": "bilibili-live/33",
+        "textures": [
+            "index.json",
+            "c1.json",
+            "c2.json",
+            "c3.json",
+            "c4.json",
+            "c5.json"
+        ]
+    },
+    {
+        "name": "HyperdimensionNeptunia",
+        "children": [
+            "blanc_classic",
+            "blanc_normal",
+            "blanc_swimwear",
+            "histoirenohover",
+            "histoire"
+        ],
+        "filename": "index.json"
+    },
+    {
+        "name": "KantaiCollection",
+        "children": [
+            "murakumo"
+        ],
+        "filename": "index.json"
+    },
+    {
+        "name": "Potion-Maker/Pio",
+        "textures": [
+            "index.json",
+            "c1.json",
+            "c2.json",
+            "c3.json",
+            "c4.json",
+            "c5.json",
+            "c6.json",
+            "c7.json"
+        ]
+    },
+    {
+        "name": "Potion-Maker/Tia",
+        "textures": [
+            "index.json",
+            "c1.json",
+            "c2.json",
+            "c3.json",
+            "c4.json",
+            "c5.json"
+        ]
+    },
+    {
+        "name": "Remu",
+        "children": [
+            "remu-1"
+        ],
+        "filename": "index.json"
+    },
+    {
+        "name": "ShizukuTalk",
+        "children": [
+            "shizuku-48",
+            "shizuku-pajama"
+        ],
+        "filename": "index.json"
+    }
+]
