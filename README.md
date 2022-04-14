@@ -8,3 +8,5 @@
 [网页在线渲染makedown](https://github.com/Lumnca/WebPlugins/tree/main/Maked)
 
 [网页粒子飘动效果](https://github.com/Lumnca/WebPlugins/blob/main/ParticleFlutter/%E7%B2%92%E5%AD%90%E9%A3%98%E5%8A%A8.md)
+
+[键盘鼠标动作模拟器](https://github.com/Lumnca/WebPlugins/blob/main/KeyWord/%E9%94%AE%E7%9B%98%E9%BC%A0%E6%A0%87%E6%98%BE%E7%A4%BA.md)
