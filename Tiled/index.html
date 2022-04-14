@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+<script src="js/pixi.js"></script>
+<script src="js/main.js"></script>
+<script>
+const app = new PIXI.Application({ backgroundColor:  0x4c4c4c, width: 960, height: 640 });
+//添加到需要显示的dom中
+document.body.appendChild(app.view);
+app.loader.add('assets/map.json');
+app.loader.load(()=>{
+    var s = new Tiled(app.loader.resources["assets/map.json"].data)
+    app.stage.addChild(s);
+});
+
+</script>
+</html>
